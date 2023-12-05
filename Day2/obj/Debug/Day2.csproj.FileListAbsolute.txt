@@ -1,0 +1,7 @@
+C:\Users\Alice\source\repos\adventofcode2023\Day2\bin\Debug\Day2.exe.config
+C:\Users\Alice\source\repos\adventofcode2023\Day2\bin\Debug\Day2.exe
+C:\Users\Alice\source\repos\adventofcode2023\Day2\bin\Debug\Day2.pdb
+C:\Users\Alice\source\repos\adventofcode2023\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\Alice\source\repos\adventofcode2023\Day2\obj\Debug\Day2.exe
+C:\Users\Alice\source\repos\adventofcode2023\Day2\obj\Debug\Day2.pdb
+C:\Users\Alice\source\repos\adventofcode2023\Day2\obj\Debug\Day2.csproj.AssemblyReference.cache

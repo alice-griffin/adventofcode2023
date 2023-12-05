@@ -1,0 +1,7 @@
+C:\Users\Alice\source\repos\adventofcode2023\adventofcode2023\bin\Debug\adventofcode2023.exe.config
+C:\Users\Alice\source\repos\adventofcode2023\adventofcode2023\bin\Debug\adventofcode2023.exe
+C:\Users\Alice\source\repos\adventofcode2023\adventofcode2023\bin\Debug\adventofcode2023.pdb
+C:\Users\Alice\source\repos\adventofcode2023\adventofcode2023\obj\Debug\adventofcode2023.csproj.AssemblyReference.cache
+C:\Users\Alice\source\repos\adventofcode2023\adventofcode2023\obj\Debug\adventofcode2023.csproj.CoreCompileInputs.cache
+C:\Users\Alice\source\repos\adventofcode2023\adventofcode2023\obj\Debug\adventofcode2023.exe
+C:\Users\Alice\source\repos\adventofcode2023\adventofcode2023\obj\Debug\adventofcode2023.pdb
