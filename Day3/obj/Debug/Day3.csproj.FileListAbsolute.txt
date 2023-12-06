@@ -5,3 +5,11 @@ C:\Users\Alice\Documents\Code\adventofcode2023\Day3\obj\Debug\Day3.csproj.Assemb
 C:\Users\Alice\Documents\Code\adventofcode2023\Day3\obj\Debug\Day3.csproj.CoreCompileInputs.cache
 C:\Users\Alice\Documents\Code\adventofcode2023\Day3\obj\Debug\Day3.exe
 C:\Users\Alice\Documents\Code\adventofcode2023\Day3\obj\Debug\Day3.pdb
+C:\Users\agriffin\Source\Repos\adventofcode2023\Day3\bin\Debug\Day3.exe.config
+C:\Users\agriffin\Source\Repos\adventofcode2023\Day3\bin\Debug\Day3.exe
+C:\Users\agriffin\Source\Repos\adventofcode2023\Day3\bin\Debug\Day3.pdb
+C:\Users\agriffin\Source\Repos\adventofcode2023\Day3\obj\Debug\Day3.csproj.AssemblyReference.cache
+C:\Users\agriffin\Source\Repos\adventofcode2023\Day3\obj\Debug\Day3.csproj.SuggestedBindingRedirects.cache
+C:\Users\agriffin\Source\Repos\adventofcode2023\Day3\obj\Debug\Day3.csproj.CoreCompileInputs.cache
+C:\Users\agriffin\Source\Repos\adventofcode2023\Day3\obj\Debug\Day3.exe
+C:\Users\agriffin\Source\Repos\adventofcode2023\Day3\obj\Debug\Day3.pdb
